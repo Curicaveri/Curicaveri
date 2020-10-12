@@ -1,8 +1,8 @@
 # Hey there, Jesus Armando Verduzco Ramirez here 👋🏽
 
-Full-stack software developer w/ 10+ years of experience working with different stacks and technologies mainly NodeJS, PHP, .NET, ReactJS and Vue.JS. 4 years tech leading until 15 people team and sometimes performing the software architect role.
+Full-stack software developer w/ 10+ years of experience working with different stacks and technologies, mostly with NodeJS, PHP, .NET, ReactJS and Vue.JS. 4 years tech leading teams and sometimes performing the software architect role.
 
-- 🔭 I’m currently working on [Wizeline](https://github.com/wizeline).
+- 🔭 I’m currently working at [Wizeline](https://github.com/wizeline).
 - 🌱 I’m currently learning firebase / firestore.
 - 👯 I’m looking to collaborate on any kind of project with social impact.
 - 📫 How to reach me:
